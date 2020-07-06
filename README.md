@@ -1,7 +1,7 @@
 Practice machine learning with projects* 
 
-Use a Structured Step-by-step process
-Any predictive modeling machine learning project can be broken
+Use a Structured Step-by-step process.
+Any predictive modeling machine learning project can be broken.
 down into six common tasks:
 1. Define Problem.
 2. Summarize Data.
