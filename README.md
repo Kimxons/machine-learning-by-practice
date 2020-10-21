@@ -1,4 +1,6 @@
-Practice machine learning with projects* 
+Learning Machine Learning by practice..
+
+Practice machine learning with real world projects* 
 
 Use a Structured Step-by-step process.
 Any predictive modeling machine learning project can be broken.
